@@ -1,0 +1,7 @@
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\obj\Debug\Tarea1_Adapter.csprojAssemblyReference.cache
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\obj\Debug\Tarea1_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\bin\Debug\Tarea1_Adapter.exe.config
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\bin\Debug\Tarea1_Adapter.exe
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\bin\Debug\Tarea1_Adapter.pdb
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\obj\Debug\Tarea1_Adapter.exe
+C:\Users\JavierBuenfil\source\repos\Tarea1_Adapter\Tarea1_Adapter\obj\Debug\Tarea1_Adapter.pdb
